@@ -94,5 +94,5 @@ pip install -r requirements.txt
 
 ## ❤️ Credits  
 
-Built by **Himadri Ghosh** as a fun LangChain practice project.  
+Built by **Himadri ** as a fun LangChain practice project.  
 Inspired by every Indian mom who somehow knows **where everything is kept** 😄  
